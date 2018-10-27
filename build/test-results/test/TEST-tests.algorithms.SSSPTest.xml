@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.algorithms.SSSPTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.027">
+  <properties/>
+  <testcase name="unitWeights()" classname="tests.algorithms.SSSPTest" time="0.001"/>
+  <testcase name="DijkstraDistances()" classname="tests.algorithms.SSSPTest" time="0.001"/>
+  <testcase name="BellmanFordDistances()" classname="tests.algorithms.SSSPTest" time="0.001"/>
+  <testcase name="DAG()" classname="tests.algorithms.SSSPTest" time="0.0"/>
+  <testcase name="unitWeightsDistances()" classname="tests.algorithms.SSSPTest" time="0.0"/>
+  <testcase name="Dijkstra()" classname="tests.algorithms.SSSPTest" time="0.0"/>
+  <testcase name="shortestPathsGraph()" classname="tests.algorithms.SSSPTest" time="0.0"/>
+  <testcase name="DAGDistances()" classname="tests.algorithms.SSSPTest" time="0.006"/>
+  <testcase name="BellmanFord()" classname="tests.algorithms.SSSPTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

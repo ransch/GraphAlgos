@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.algorithms.CyclesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.03">
+  <properties/>
+  <testcase name="isAcyclic()" classname="tests.algorithms.CyclesTest" time="0.004"/>
+  <testcase name="containsZeroCycle()" classname="tests.algorithms.CyclesTest" time="0.019"/>
+  <testcase name="containsNegativeCycle()" classname="tests.algorithms.CyclesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

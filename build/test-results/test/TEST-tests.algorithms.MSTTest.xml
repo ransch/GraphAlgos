@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.algorithms.MSTTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.023">
+  <properties/>
+  <testcase name="Prim()" classname="tests.algorithms.MSTTest" time="0.014"/>
+  <testcase name="Prim2()" classname="tests.algorithms.MSTTest" time="0.002"/>
+  <testcase name="Prim3()" classname="tests.algorithms.MSTTest" time="0.0"/>
+  <testcase name="Kruskal()" classname="tests.algorithms.MSTTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

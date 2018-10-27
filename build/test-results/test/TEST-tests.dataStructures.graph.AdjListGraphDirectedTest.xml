@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.dataStructures.graph.AdjListGraphDirectedTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.02">
+  <properties/>
+  <testcase name="vertices()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.001"/>
+  <testcase name="verticesCount()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.001"/>
+  <testcase name="edgesCount()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.0"/>
+  <testcase name="filterEdges()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.0"/>
+  <testcase name="outgoingAB()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.002"/>
+  <testcase name="cloneTest()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.001"/>
+  <testcase name="connected()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.001"/>
+  <testcase name="containsVertex()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.0"/>
+  <testcase name="outgoing()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.002"/>
+  <testcase name="edges()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.002"/>
+  <testcase name="indegree()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.001"/>
+  <testcase name="outdegree()" classname="tests.dataStructures.graph.AdjListGraphDirectedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

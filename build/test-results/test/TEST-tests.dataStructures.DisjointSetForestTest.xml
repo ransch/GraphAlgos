@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.dataStructures.DisjointSetForestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.001">
+  <properties/>
+  <testcase name="test()" classname="tests.dataStructures.DisjointSetForestTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.dataStructures.graph.EdgeImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.021">
+  <properties/>
+  <testcase name="invert()" classname="tests.dataStructures.graph.EdgeImplTest" time="0.0"/>
+  <testcase name="equalsHashCode()" classname="tests.dataStructures.graph.EdgeImplTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

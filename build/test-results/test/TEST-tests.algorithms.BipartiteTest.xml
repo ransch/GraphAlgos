@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.algorithms.BipartiteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-26T14:58:30" hostname="רן-PC" time="0.028">
+  <properties/>
+  <testcase name="isBipartite()" classname="tests.algorithms.BipartiteTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
